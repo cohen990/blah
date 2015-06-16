@@ -1,2 +1,7 @@
 e:\blah\ClassLibrary1\bin\Debug\ClassLibrary1.dll
 E:\blah\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\moop\blah\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\moop\blah\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\moop\blah\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\moop\blah\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\moop\blah\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
